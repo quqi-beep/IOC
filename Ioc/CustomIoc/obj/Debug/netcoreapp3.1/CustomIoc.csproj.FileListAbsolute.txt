@@ -1,0 +1,8 @@
+D:\Tool\Ioc\Ioc\CustomIoc\bin\Debug\netcoreapp3.1\CustomIoc.deps.json
+D:\Tool\Ioc\Ioc\CustomIoc\bin\Debug\netcoreapp3.1\CustomIoc.dll
+D:\Tool\Ioc\Ioc\CustomIoc\bin\Debug\netcoreapp3.1\CustomIoc.pdb
+D:\Tool\Ioc\Ioc\CustomIoc\obj\Debug\netcoreapp3.1\CustomIoc.AssemblyInfoInputs.cache
+D:\Tool\Ioc\Ioc\CustomIoc\obj\Debug\netcoreapp3.1\CustomIoc.AssemblyInfo.cs
+D:\Tool\Ioc\Ioc\CustomIoc\obj\Debug\netcoreapp3.1\CustomIoc.csproj.CoreCompileInputs.cache
+D:\Tool\Ioc\Ioc\CustomIoc\obj\Debug\netcoreapp3.1\CustomIoc.dll
+D:\Tool\Ioc\Ioc\CustomIoc\obj\Debug\netcoreapp3.1\CustomIoc.pdb

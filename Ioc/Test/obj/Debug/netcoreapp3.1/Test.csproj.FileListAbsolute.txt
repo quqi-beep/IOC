@@ -1,0 +1,16 @@
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\CustomIoc.dll
+D:\Tool\Ioc\Ioc\Test\bin\Debug\netcoreapp3.1\CustomIoc.pdb
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\Tool\Ioc\Ioc\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
